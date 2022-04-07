@@ -59,21 +59,29 @@
 
 #### 七院创新基地
 * [七院创新基地主页](七院创新基地.cn)
+
   数学与计算科学学院创新基地的主页
+  
 * [七院创新基地Github主页](https://github.com/seven-innovation-base)
 
   数学与计算科学学院创新基地的Github主页
 
 #### 三院科协
 * [三院科协主页](https://hello.kexie.space/)
+
   三院科协的主页
+  
 * [三院科协Github主页](https://github.com/sanyuankexie)
+
   三院科协的Github主页
 
 #### 校基地
 * [校基地软件部主页](https://csd.guet.ltd/)
+
   校基地软件部的主页
+  
 * [校基地硬件部主页](https://sctc.guet.one/hardware/)
+
   校基地硬件部的主页
 
 [↑ 返回目录 ↑](#0)
