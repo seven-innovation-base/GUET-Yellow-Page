@@ -89,4 +89,4 @@
 
 ### 📋License
 
-[MIT](https://github.com/Wonz5130/NJUPT-Yellow-Pages/blob/master/LICENSE)
+[MIT](https://github.com/seven-innovation-base/GUET-Yellow-Page/blob/main/LICENSE)
